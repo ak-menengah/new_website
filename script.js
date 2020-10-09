@@ -1,3 +1,4 @@
+//js untuk wa floating button
 $(document).ready(function(){
         $('.floatingButton').on('click',
             function(e){
